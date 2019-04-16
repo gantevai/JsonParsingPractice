@@ -1,0 +1,42 @@
+{
+  "employees":[
+    {
+      "name": "Pasang Dorje Lama",
+      "email": "gantu.hyolmo@gmail.com",
+      "mobileno.": "9808977135",
+      "salary": "65000"
+    },
+    {
+      "name": "Dorje Lama",
+      "email": "gantu1.hyolmo@gmail.com",
+      "mobileno.": "9809977135",
+      "salary": "45000"
+    },
+    {
+      "name": "Sumi Shrestha",
+      "email": "sumishrestha66@gmail.com",
+      "mobileno.": "9813169597",
+      "salary": "55000"
+    },
+    {
+      "name": "Ram Lal",
+      "email": "ramlal33@gmail.com",
+      "mobileno.": "9808992878",
+      "salary": "25000"
+    },
+    {
+      "name": "Heera Lal",
+      "email": "heeralaal@gmail.com",
+      "mobileno.": "9808991234",
+      "salary": "35000"
+    },
+    {
+      "name": "Shyam Lal",
+      "email": "shyamlal33@gmail.com",
+      "mobileno.": "9899992878",
+      "salary": "40000"
+    }
+
+  ]
+
+}
